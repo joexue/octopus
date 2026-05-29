@@ -74,7 +74,6 @@ stop:
 |RET   |n/a  |n/a                     |0x1d              |0x00               |RET                   |
 
 ## Screenshot
-<img width="1252" height="1012" alt="Screenshot 2026-05-29 192915" src="https://github.com/user-attachments/assets/b8c2d80d-4a55-47d9-88d3-9b6ab31a1805" />
 
-
+<img width="1486" height="1052" alt="Screenshot 2026-05-29 192915" src="https://github.com/user-attachments/assets/fd6c4ea6-4074-4094-8208-871bc42f741e" />
 
